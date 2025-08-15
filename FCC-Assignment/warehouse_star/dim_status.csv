@@ -1,0 +1,4 @@
+status_key,status_code,status_name
+1,COMPLETED,Session completed
+2,ABORTED,Session aborted
+3,TIMEOUT,Session timeout

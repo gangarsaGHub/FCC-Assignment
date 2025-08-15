@@ -1,0 +1,4 @@
+play_session_status_code,english_description,french_description
+COMPLETED,Session completed,Session terminée
+ABORTED,Session aborted,Session interrompue
+TIMEOUT,Session timeout,Délai d'expiration de la session

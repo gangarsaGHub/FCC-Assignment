@@ -1,0 +1,12 @@
+check,passed
+dim_date not empty,True
+dim_channel surrogate key present,True
+dim_channel.channel_code unique,True
+dim_status surrogate key present,True
+dim_status.status_code unique,True
+dim_plan surrogate key present,True
+dim_plan.plan_id unique,True
+dim_user surrogate key present,True
+fact_play_session.start_date_key >=95% coverage,True
+fact_play_session.channel_key valid >=95%,True
+fact_play_session has duration_minutes,True

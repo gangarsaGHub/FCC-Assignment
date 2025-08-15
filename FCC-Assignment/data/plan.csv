@@ -1,0 +1,4 @@
+plan_id,payment_frequency_code,cost_amount
+1,MONTHLY,1.99
+2,ANNUALLY,9.99
+3,ONETIME,14.99
